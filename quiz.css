@@ -1,0 +1,78 @@
+
+.flex {
+	display: flex;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.pdiscription {
+	text-align: justify;
+	padding-left: 20px;
+}
+
+.availability {
+	background-color: darkgrey;
+	color:yellow;
+	padding-left: 20px;
+}
+.restaurantsCard {
+	border: 1px solid lightblue;
+	margin: 5px auto;
+	width: 30%;
+}
+
+.dish {
+  border-bottom: 1px dotted lightgrey;
+  text-align: center;
+
+}
+
+.pSpecifications {
+	margin-left: 4px;
+	font-weight: 500px;
+	font-size: 20px;
+}
+
+.pricing {
+	margin-left: 3px;
+	font-weight: 600;
+	font-size: 24px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+}
+
+.footer {
+	margin-left: 3px;
+	font-size:12px;
+}
+
+.foodSize {
+	font-weight: 600px;
+	margin-left: 12px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+
+}
+
+.foodWeight {
+	font-weight: 600px;
+	margin-left: 12px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+
+}
+
+.foodQuantitypricing {
+	font-weight: bold;
+	margin-left: 12px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+	font-size: 12px;
+
+
+}
+
+
