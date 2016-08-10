@@ -7,10 +7,12 @@ img {
 	display: block;
 	margin: 0 auto;
 	margin-top: 20px;
+	width: 50%;
 }
 .pdiscription {
 	text-align: justify;
 	padding-left: 20px;
+	padding-right: 20px;
 }
 
 .availability {
